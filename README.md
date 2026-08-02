@@ -7,7 +7,6 @@
 
 A Python application that helps homeowners, renters, and DIY enthusiasts plan home improvement projects by generating shopping lists, estimating costs, and exporting project materials.
 
----
 
 ## 📖 Overview
 
@@ -15,7 +14,6 @@ The **Home Project Shopping List Generator** simplifies planning for home improv
 
 The application also supports custom materials, duplicate item merging, CSV/JSON exports, and quick search links to popular home improvement retailers.
 
----
 
 ## ✨ Features
 
@@ -36,7 +34,6 @@ The application also supports custom materials, duplicate item merging, CSV/JSON
   * Ace Hardware
   * Amazon
 
----
 
 ## 📁 Project Structure
 
@@ -63,7 +60,6 @@ Home-Project-App/
 └── tests/
 ```
 
----
 
 ## 🚀 Getting Started
 
@@ -91,7 +87,6 @@ Run the application:
 python main.py
 ```
 
----
 
 ## 🖥️ Example Workflow
 
@@ -104,7 +99,6 @@ python main.py
 7. Review required tools and estimated costs.
 8. Export the shopping list as CSV or JSON.
 
----
 
 ## 📸 Screenshots
 
@@ -126,7 +120,6 @@ python main.py
 [ Add screenshot here ]
 ```
 
----
 
 ## 🧪 Testing
 
@@ -141,7 +134,6 @@ The application has been tested for:
 * JSON export
 * Invalid input handling
 
----
 
 ## 🛠️ Technologies Used
 
@@ -153,7 +145,6 @@ The application has been tested for:
 * urllib.parse
 * Object-Oriented Programming (OOP)
 
----
 
 ## 📚 Programming Concepts Demonstrated
 
@@ -166,7 +157,6 @@ The application has been tested for:
 * File handling
 * Data validation
 
----
 
 ## 🔮 Future Improvements
 
@@ -178,13 +168,11 @@ The application has been tested for:
 * Budget tracking
 * Mobile application support
 
----
 
 ## 📄 License
 
 This project is licensed under the MIT License.
 
----
 
 ## 👤 Author
 
@@ -192,7 +180,6 @@ This project is licensed under the MIT License.
 
 Computer Programming Design – Capstone Project
 
----
 
 ## 🙏 Acknowledgments
 
