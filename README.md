@@ -76,7 +76,7 @@ Home-Project-App/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Home-Project-App.git
+git clone https://github.com/Mr-Tillis/Home-Project-App.git
 ```
 
 Change to the project directory:
